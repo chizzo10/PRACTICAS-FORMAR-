@@ -1,0 +1,8 @@
+{
+    "nombre" : "Roberto",
+    "apellido" : "Zalazar",
+    "edad" : 40,
+    "profesion" : "alumno",
+    "casado" : true,
+    "hobbie" : ["javascript","php","html"]
+    }
