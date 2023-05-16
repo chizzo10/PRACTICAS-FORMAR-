@@ -1,0 +1,21 @@
+const movies = [
+    {
+        movie : 'interestelar',
+        genero : 'accion',
+        actores : 'pepito'
+    },
+
+    {
+        movie : 'interestelar 2',
+        genero : 'accion',
+        actores : 'juancito'
+    },
+
+    {
+        movie : 'interestelar 3',
+        genero : 'accion',
+        actores : 'juanito' 
+    }
+]
+
+module.exports = movies

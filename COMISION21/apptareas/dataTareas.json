@@ -1,0 +1,14 @@
+[
+  {
+    "titulo": "JavaScript",
+    "estado": "terminado"
+  },
+  {
+    "titulo": "Angular",
+    "estado": "pendiente"
+  },
+  {
+    "titulo": "Java",
+    "estado": "en progreso"
+  }
+]

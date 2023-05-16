@@ -1,10 +1,14 @@
-const persona ={
-    nombre : "juan",
-    apellido : "Caseres",
-    rdad : 40,
+const persona = {
+    nombre : "Juan",
+    apellido : "Cáceres",
+    edad : 40,
     nombreCompleto : function(){
         return this.nombre + " " + this.apellido
     }
 }
-
-console.log(nombreCompleto());
+​
+const {edad, nombre, apellido} = persona;
+​
+​
+console.log(persona.nombreCompleto());
+console.log(edad);
