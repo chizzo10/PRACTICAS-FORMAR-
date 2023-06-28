@@ -1,0 +1,6 @@
+body.home{
+    background-image: url('/img/emilia-home.jpg');
+    background-size: 75%;
+    background-repeat: no-repeat;
+    background-position: right -100px;
+}
