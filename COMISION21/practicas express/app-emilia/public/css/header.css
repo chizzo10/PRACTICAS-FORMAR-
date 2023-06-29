@@ -1,8 +1,41 @@
-.header--vertical a, .header--horizontal a{
-    text-transform: uppercase;
-    line-height: 30px;
+header nav ul {
+    margin: 0;
+
 }
 
-.header--horizontal nav ul li{
+.header--vertical {
+    margin-left: 30px;
+    margin-top: 20px;
+    font-weight: 300;
+}
+
+.header--horizontal {
+    text-align: right;
+    padding: 28px 8px 28px 8px;
+    font-weight: 400;
+}
+
+.header--horizontal-menu {
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 8px;
+    margin-bottom: 10px;
+}
+
+header a {
+    text-transform: uppercase;
+    line-height: 30px;
+    color: black;
+    
+
+}
+
+.header--horizontal nav ul li {
     display: inline;
+}
+
+.header--music {
+    background-image: url('/img/emilia-music-top.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
 }

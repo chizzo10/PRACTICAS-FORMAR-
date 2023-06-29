@@ -11,22 +11,37 @@ font-family: 'Work Sans', sans-serif;
     --colorVerde : #44a391;
 }
 
+
 body{
+    
     font-family: var(--tipografiaGeneral);
+    margin: 0;
+   
+}
+
+body a {
+    text-decoration: none;
+    
+}
+
+main{
+    margin: 8px;
 }
 
 h1 {
     font-family: var(--tipografiaTitulos);
     text-transform: uppercase;
     font-weight: 700;
-    font-size: 65pxs;
+    font-size: 85px;
 }
 
-
-a{
-    text-decoration: none;
-    color: black;
+section  h3{
+    font-family: var(--tipografiaTitulos);
+    text-transform: uppercase;
+    font-size: 25px;
+    margin-top: 75px;
 }
+
 
 ul li{
     list-style: none;
@@ -35,3 +50,8 @@ ul li{
 ul , ol{
     padding-left: 0;
 }
+
+section p{
+    line-height: 8px;
+}
+

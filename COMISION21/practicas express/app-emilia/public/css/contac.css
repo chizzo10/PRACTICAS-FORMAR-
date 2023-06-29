@@ -1,0 +1,6 @@
+main section article h4{
+    font-family: var( --tipografiaTitulos);
+    color: var(--colorVerde);
+    margin: 40px 0;
+    font-weight: 300;
+}

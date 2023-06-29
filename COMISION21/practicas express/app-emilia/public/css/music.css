@@ -1,7 +1,22 @@
-body.music{
-    background-color: green;
+.music main section ol li{
+    list-style-type: decimal-leading-zero;
+    
+ }
+
+ 
+ main nav ul a {
+    padding-left: 30px;
+    
+    
 }
 
-.music header{
-    background-color: yellow;
+main a {
+    color: grey;
 }
+
+
+
+article ol{
+    margin-left: 30px;
+}
+
